@@ -13,9 +13,13 @@ Folders hierarchy:
 - workflows - email_workflow.py - python file to organize page functions into common functions
 
 When you are launching the project don't forget to use additional arguments when building:
+
 --headed --base-url https://www.azet.sk/
+
 and environmental variables:
+
 username=<your_username>;password=<your_password>
+
 where you fill out your username and password after you register yourself into azet.sk
 
 It was my first time doing such project as I briefly went throught python in school and I also never worked with pytest-dbb and playwright. It was a nice experience.
