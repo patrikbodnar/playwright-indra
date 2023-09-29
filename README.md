@@ -1,4 +1,9 @@
 # playwright-indra
+=Depends on pytest-playwright
+=pip install pytest-playwright
+=pip install pytest-bdd
+=playwright install
+
 Assignment from company to create testing automation project in python using cucumber, pytest-bdd and playwright
 I was testing Azet.sk email service in this project.
 
