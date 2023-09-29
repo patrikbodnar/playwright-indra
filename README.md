@@ -13,3 +13,5 @@ Folders hierarchy:
 
 
 It was my first time doing such project as I briefly went throught python in school and I also never worked with pytest-dbb and playwright. It was a nice experience.
+
+In the start I started creating test based on cucumber generator of suitcases but in the end I was grouping them together.
